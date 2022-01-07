@@ -13,16 +13,16 @@ Atlantic Commerce support for Omnipay.
 
 We invest a lot of resources into creating opensource products.
 
-We highly appreciate you sending us a postcard from your hometown, mentioning which of our package(s) you are using.
-You'll find our address on [our contact page](https://spatie.be/about-us). We publish all received postcards
-on [our virtual postcard wall](https://spatie.be/open-source/postcards).
+[//]: # (We highly appreciate you sending us a postcard from your hometown, mentioning which of our package&#40;s&#41; you are using.)
+[//]: # (You'll find our address on [our contact page]&#40;https://spatie.be/about-us&#41;. We publish all received postcards)
+[//]: # (on [our virtual postcard wall]&#40;https://spatie.be/open-source/postcards&#41;.)
 
 ## Installation
 
 You can install the package via composer:
 
 ```bash
-composer require shamarkellman/omnipay-first-atlantic-commerce
+composer require juliosolis/omnipay-first-atlantic-commerce
 ```
 
 ## Usage

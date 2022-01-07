@@ -1,16 +1,21 @@
 {
-    "name": "shamarkellman/omnipay-first-atlantic-commerce",
+    "name": "juliosolis/omnipay-first-atlantic-commerce",
     "description": "omnipay-first-atlantic-commerce",
     "keywords": [
-        "shamarkellman",
+        "juliosolis",
         "omnipay-first-atlantic-commerce"
     ],
-    "homepage": "https://github.com/shamarkellman/omnipay-first-atlantic-commerce",
+    "homepage": "https://github.com/juliosolis/omnipay-first-atlantic-commerce",
     "license": "MIT",
     "authors": [
         {
             "name": "Shamar Kellman",
             "email": "shamarkellman@hotmail.com",
+            "role": "Developer"
+        },
+        {
+            "name": "Julio Solis",
+            "email": "juliosolai@gmail.com",
             "role": "Developer"
         }
     ],

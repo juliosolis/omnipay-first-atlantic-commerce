@@ -2,9 +2,9 @@
 
 First Atlantic Commerce driver for the Omnipay PHP payment processing library
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/shamarkellman/omnipay-first-atlantic-commerce.svg?style=flat-square)](https://packagist.org/packages/shamarkellman/omnipay-first-atlantic-commerce)
-[![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/shamarkellman/omnipay-first-atlantic-commerce/Tests?label=tests)](https://github.com/shamarkellman/omnipay-first-atlantic-commerce/actions?query=workflow%3ATests+branch%3Amaster)
-[![Total Downloads](https://img.shields.io/packagist/dt/shamarkellman/omnipay-first-atlantic-commerce.svg?style=flat-square)](https://packagist.org/packages/shamarkellman/omnipay-first-atlantic-commerce)
+[//]: # ([![Latest Version on Packagist]&#40;https://img.shields.io/packagist/v/shamarkellman/omnipay-first-atlantic-commerce.svg?style=flat-square&#41;]&#40;https://packagist.org/packages/shamarkellman/omnipay-first-atlantic-commerce&#41;)
+[//]: # ([![GitHub Tests Action Status]&#40;https://img.shields.io/github/workflow/status/shamarkellman/omnipay-first-atlantic-commerce/Tests?label=tests&#41;]&#40;https://github.com/shamarkellman/omnipay-first-atlantic-commerce/actions?query=workflow%3ATests+branch%3Amaster&#41;)
+[//]: # ([![Total Downloads]&#40;https://img.shields.io/packagist/dt/shamarkellman/omnipay-first-atlantic-commerce.svg?style=flat-square&#41;]&#40;https://packagist.org/packages/shamarkellman/omnipay-first-atlantic-commerce&#41;)
 
 Omnipay is a framework agnostic, multi-gateway payment processing library for PHP. This package implements First
 Atlantic Commerce support for Omnipay.

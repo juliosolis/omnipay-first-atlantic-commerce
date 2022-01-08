@@ -45,9 +45,9 @@ class AuthorizeResponse extends AbstractResponse
             $signature .= $this->request->getMerchantId();
             $signature .= $this->request->getAcquirerId();
             $signature .= $this->request->getTransactionId();
-            $signature .= $this->data['CreditCardTransactionResults']['ResponseCode'];
-            $signature .= $this->data['CreditCardTransactionResults']['Reasoncode'];
-            $signature .= $this->data['CreditCardTransactionResults']['ReasoncodeDescription'];
+            $signature .= $this->getResponseCode();
+            $signature .= $this->getCode();
+            $signature .= $this->getMessage();
 
             $signature = base64_encode(sha1($signature, true));
 

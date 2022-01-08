@@ -48,8 +48,6 @@ class AuthorizeResponse extends AbstractResponse
             $signature .= $this->data['CreditCardTransactionResults']['ResponseCode'];
             $signature .= $this->data['CreditCardTransactionResults']['Reasoncode'];
             $signature .= $this->data['CreditCardTransactionResults']['ReasoncodeDescription'];
-//            $signature .= $this->request->formatAmount();
-//            $signature .= $this->request->getCurrencyNumeric();
 
             $signature = base64_encode(sha1($signature, true));
 
